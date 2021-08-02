@@ -1,0 +1,11 @@
+https://github.com/uBlockOrigin/uAssets/raw/master/filters/filters.txt
+https://github.com/uBlockOrigin/uAssets/raw/master/filters/badware.txt
+https://github.com/uBlockOrigin/uAssets/raw/master/filters/privacy.txt
+https://github.com/uBlockOrigin/uAssets/raw/master/filters/resource-abuse.txt
+https://github.com/uBlockOrigin/uAssets/raw/master/filters/unbreak.txt
+https://filters.adtidy.org/extension/ublock/filters/101_optimized.txt
+https://filters.adtidy.org/extension/ublock/filters/14_optimized.txt
+https://filters.adtidy.org/extension/ublock/filters/118_optimized.txt
+https://filters.adtidy.org/extension/ublock/filters/115_optimized.txt
+https://filters.adtidy.org/extension/ublock/filters/213_optimized.txt
+https://anti-ad.net/easylist.txt
