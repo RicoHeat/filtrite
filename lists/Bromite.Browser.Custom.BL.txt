@@ -24,6 +24,9 @@ https://malware-filter.gitlab.io/malware-filter/urlhaus-filter-agh-online.txt
 # No Coin
 https://filters.adtidy.org/extension/chromium/filters/242_optimized.txt
 
+# Adguard General JS API
+https://raw.githubusercontent.com/RicoHeat/My-uBlock-Static-Filters/main/AG.General.JS.Api.txt
+
 # Adguard Base
 https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/BaseFilter/sections/antiadblock.txt
 https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/BaseFilter/sections/cryptominers.txt
