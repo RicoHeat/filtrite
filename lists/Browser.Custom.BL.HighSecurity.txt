@@ -1,0 +1,31 @@
+# uBlock filters
+https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/privacy.txt
+https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/badware.txt
+https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/resource-abuse.txt
+https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters.txt
+https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters-2020.txt
+https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters-2021.txt
+https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters-2022.txt
+https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters-2023.txt
+https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/quick-fixes.txt
+
+# Filter Fixes and Allowlist
+https://realityripple.com/Tools/AdBlock++/rule.php?id=4216373282
+
+# Easylist + EasyPrivacy Optimized
+https://realityripple.com/Tools/AdBlock++/rule.php?id=1983172809
+
+# Advanced Anti-Malware Security
+https://realityripple.com/Tools/AdBlock++/rule.php?id=3715581429
+https://realityripple.com/Tools/AdBlock++/rule.php?id=3530342504
+
+# No Crypto Coins
+https://raw.githubusercontent.com/RicoHeat/My-uBlock-Static-Filters/main/NoCryptoCoins.txt
+
+# Antiadblock Popups + Notifications
+https://realityripple.com/Tools/AdBlock++/rule.php?id=1335960247
+https://raw.githubusercontent.com/RicoHeat/My-uBlock-Static-Filters/main/Anti-BS-List.txt
+https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/AnnoyancesFilter/Popups/sections/antiadblock.txt
+
+# Tracking Protection Optimized
+https://realityripple.com/Tools/AdBlock++/rule.php?id=1103224442
