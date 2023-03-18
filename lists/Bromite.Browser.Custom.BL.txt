@@ -11,7 +11,7 @@ https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/quick-fixe
 
 # Filter Fixes and Anti Bullshit
 https://raw.githubusercontent.com/RicoHeat/My-uBlock-Static-Filters/main/Anti-BS-List.txt
-https://raw.githubusercontent.com/RicoHeat/My-uBlock-Static-Filters/main/Fixes.txt
+https://realityripple.com/Tools/AdBlock++/rule.php?id=2913802583
 
 # EasyPrivacy + Easylist
 https://easylist-downloads.adblockplus.org/easyprivacy+easylist.txt
