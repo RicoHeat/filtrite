@@ -24,7 +24,6 @@ https://raw.githubusercontent.com/RicoHeat/My-uBlock-Static-Filters/main/NoCrypt
 
 # Antiadblock Popups + Notifications
 https://realityripple.com/Tools/AdBlock++/rule.php?id=1335960247
-https://raw.githubusercontent.com/RicoHeat/My-uBlock-Static-Filters/main/Anti-BS-List.txt
 https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/AnnoyancesFilter/Popups/sections/antiadblock.txt
 
 # Tracking Protection Optimized
