@@ -1,7 +1,7 @@
 # AdGuard filters Optimized
-https://filters.adtidy.org/extension/android-content-blocker/filters/1_optimized.txt
 https://filters.adtidy.org/extension/android-content-blocker/filters/2_optimized.txt
 https://filters.adtidy.org/extension/android-content-blocker/filters/3_optimized.txt
+https://filters.adtidy.org/extension/android-content-blocker/filters/4_optimized.txt
 https://filters.adtidy.org/extension/android-content-blocker/filters/11_optimized.txt
 https://filters.adtidy.org/extension/android-content-blocker/filters/14_optimized.txt
 https://filters.adtidy.org/extension/android-content-blocker/filters/15_optimized.txt
