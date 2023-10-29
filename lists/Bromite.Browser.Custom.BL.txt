@@ -9,8 +9,7 @@ https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters-20
 https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters-2023.txt
 https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/quick-fixes.txt
 
-# Filter Fixes and Anti Bullshit
-https://raw.githubusercontent.com/RicoHeat/My-uBlock-Static-Filters/main/Anti-BS-List.txt
+# Unbreak Filter Fixes
 https://realityripple.com/Tools/AdBlock++/rule.php?id=2913802583
 
 # EasyPrivacy + Easylist
@@ -27,9 +26,6 @@ https://raw.githubusercontent.com/RicoHeat/My-uBlock-Static-Filters/main/NoCrypt
 
 # Popups
 https://raw.githubusercontent.com/RicoHeat/My-uBlock-Static-Filters/main/PopupsCombined.txt
-
-# Remove Parameters
-https://raw.githubusercontent.com/RicoHeat/My-uBlock-Static-Filters/main/CleanURL-AntiTrack.txt
 
 # Adguard Base
 https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/BaseFilter/sections/antiadblock.txt
