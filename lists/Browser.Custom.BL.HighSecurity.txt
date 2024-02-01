@@ -7,17 +7,16 @@ https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters-20
 https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters-2021.txt
 https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters-2022.txt
 https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters-2023.txt
+https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters-2024.txt
 https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/quick-fixes.txt
-
-# Filter Fixes and Allowlist
-https://realityripple.com/Tools/AdBlock++/rule.php?id=4216373282
 
 # Easylist + EasyPrivacy Optimized
 https://realityripple.com/Tools/AdBlock++/rule.php?id=1983172809
 
 # Advanced Anti-Malware Security
-https://realityripple.com/Tools/AdBlock++/rule.php?id=3715581429
-https://realityripple.com/Tools/AdBlock++/rule.php?id=3530342504
+https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/hoster.txt
+https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/fake.txt
+https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/dyndns.txt
 
 # No Crypto Coins
 https://raw.githubusercontent.com/RicoHeat/My-uBlock-Static-Filters/main/NoCryptoCoins.txt
