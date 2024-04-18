@@ -1,7 +1,7 @@
 👉 Forked for personal use.
 
 ## filtrite
-filtrite is a project for generating filter lists for [Bromite](https://www.bromite.org/). See the page about [Custom Ad Block Filters](https://www.bromite.org/custom-filters) for more info.
+filtrite is a project for generating filter lists for [Bromite](https://www.bromite.org/) and [Cromite](https://www.cromite.org/). See the page about [Custom Ad Block Filters](https://www.bromite.org/custom-filters) for more info.
 
 
 Alternatively, you can [go here to search forks of this project](https://filterlists.010.one/) for more lists, e.g. for other countries.
