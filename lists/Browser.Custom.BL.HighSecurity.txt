@@ -11,19 +11,16 @@ https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters-20
 https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/quick-fixes.txt
 
 # Easylist + EasyPrivacy Optimized
-https://realityripple.com/Tools/AdBlock++/rule.php?id=1983172809
+https://filters.adtidy.org/extension/android-content-blocker/filters/101_optimized.txt
+https://filters.adtidy.org/extension/android-content-blocker/filters/118_optimized.txt
 
 # Advanced Anti-Malware Security
 https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/hoster.txt
 https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/fake.txt
 https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/dyndns.txt
 
-# No Crypto Coins
-https://raw.githubusercontent.com/RicoHeat/My-uBlock-Static-Filters/main/NoCryptoCoins.txt
-
-# Antiadblock Popups + Notifications
-https://realityripple.com/Tools/AdBlock++/rule.php?id=1335960247
-https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/AnnoyancesFilter/Popups/sections/antiadblock.txt
+# NoCoin
+https://filters.adtidy.org/extension/android-content-blocker/filters/242_optimized.txt
 
 # Tracking Protection Optimized
-https://realityripple.com/Tools/AdBlock++/rule.php?id=1103224442
+https://filters.adtidy.org/extension/android-content-blocker/filters/3_optimized.txt
